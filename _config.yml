@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: sailingsz8@gmail.com
 description: 关注流程架构、系统思维 | Hawk Lei， all life Engineer，system Designer | 这里是 @Hawk雷 的个人博客，与你一起发现更大的世界。"
 keyword: "博客, 个人网站, 互联网,设计, 产品"
-url: "https://sailingx.github.io"              # your host, for absolute URL
+url: "http://sailingx.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
