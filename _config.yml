@@ -24,7 +24,8 @@ github_username:  sailingX
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-merlot
+theme:  minima
+# theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
 
